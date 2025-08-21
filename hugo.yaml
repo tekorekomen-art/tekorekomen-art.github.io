@@ -54,3 +54,9 @@ params:
   editURL:
     enable: true
     base: "https://github.com/tekorekomen-art/edit/main/content"
+
+params:
+  theme:
+    # light | dark | system
+    default: system
+    displayToggle: true
