@@ -14,7 +14,7 @@ markup:
 
   # enable hextra syntax highlight
   highlight:
-    noClasses: false
+    noClasses: true
 
 menu:
   main:
